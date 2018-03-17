@@ -1,5 +1,5 @@
 {
-  "name": "Webhook-echo-sample",
+  "name": "webhook-mlg-api",
   "description": "Webhook echo sample",
   "repository": "https://github.com/Bennytek/webhook-mlg-api",
   "keywords": ["api.ai", "dialogflow", "natural language"]
