@@ -13,8 +13,6 @@ restService.use(
 
 restService.use(bodyParser.json());
 
-
-
 restService.post("/audio", function(req, res) {
   var speech = "";
   switch (req.body.result.parameters.AudioSample.toLowerCase()) {
